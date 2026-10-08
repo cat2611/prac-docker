@@ -13,7 +13,7 @@ See 'snap info docker' for additional versions.
 2. Убедитесь что у вас УСТАНОВЛЕН ```docker compose```(без тире) версии не менее v2.24.X, для это выполните команду ```docker compose version```  
 ###  **Своё решение к задачам оформите в вашем GitHub репозитории!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
 ### Ответ  
-![0.png0](test/o.PNG)
+![0.png](test/0.PNG)
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
